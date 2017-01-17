@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VideoLend</string>
+    <string name="action_settings">Settings</string>
 </resources>
